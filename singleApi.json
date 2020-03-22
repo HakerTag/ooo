@@ -57,7 +57,7 @@
       "city": "Malaysia",
       "country": "Malaysia",
       "image": "malaysia",
-      "ip": "101.99.74.214 443",
+      "ip": "vpn703495685.opengw.net",
       "active": "true",
       "signal": "a"
     },
@@ -115,9 +115,9 @@
       "id": 16,
       "file": 9,
       "city": "Kamru",
-      "country": "Viet Nam",
+      "country": "japan",
       "image": "vietnam",
-      "ip": "1.52.238.28",
+      "ip": "183.77.83.32",
       "active": "true",
       "signal": "a"
     },
